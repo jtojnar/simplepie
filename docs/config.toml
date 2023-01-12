@@ -1,5 +1,5 @@
 title = "SimplePie"
-base_url = "https://simplepie.org"
+base_url = "http://simplepie.ogion.cz"
 
 [slugify]
 # Keep old and API-generated links working.
